@@ -1,6 +1,6 @@
-# Simple blog management system
+# Simple Artical management system
 
-A simple blog management system that allows users to create, read, update, delete, Evaluate, and search.
+A simple Artical management system that allows users to create, read, update, delete, Evaluate, and search.
 
 ## Attributes
 
