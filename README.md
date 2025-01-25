@@ -1,4 +1,4 @@
-# Simple Artical management system
+# Artical management system
 
 A simple Artical management system that allows users to create, read, update, delete, Evaluate, and search.
 
